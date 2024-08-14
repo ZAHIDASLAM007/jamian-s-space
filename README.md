@@ -1,6 +1,6 @@
 # Jamian-s-Space
 
-PROJECT SUMMARY ----Defined
+PROJECT SUMMARY ----Defined--ok
 1.	Title	------ Jamian’s Space
 2.	Charter-----	This project complies to give a platform to store the digital notes. This is developed specially for students to remotely access their notes, but anyone can use it. It can be used by teachers to store their teaching material as well as by a company employee to store some important points for his upcoming meeting.
 3.	SoW	User-----Interface and Backend--Nikhil Kalani(40 days) 
